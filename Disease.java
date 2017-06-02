@@ -11,7 +11,7 @@ import java.util.*;
 
 /**
  *
- * @author Gaurav
+
  */
 public class Disease extends javax.swing.JFrame {
 
