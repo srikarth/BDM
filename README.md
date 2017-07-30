@@ -1,4 +1,4 @@
-Heart disease Prediction
+ Heart disease Prediction
 
 Algorithm: Naive Bayes Classification
 
