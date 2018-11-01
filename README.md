@@ -5,6 +5,8 @@ Algorithm: Naive Bayes Classification
 Technology /Applications :NetBeans IDE(Java) ,MySQL(Database),Tableau(Visualization)
 
 
+Dataset:https://archive.ics.uci.edu/ml/datasets/heart+Disease
+
 Screenshots
 
 
